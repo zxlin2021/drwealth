@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="29px" viewBox="0 0 32 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 4</title>
+    <defs>
+        <polygon id="path-1" points="0 0 19 0 19 19 0 19"></polygon>
+        <polygon id="path-3" points="0 0 13 0 13 13 0 13"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.249399701">
+        <g id="A版＿好房醫起貸網頁" transform="translate(-487.000000, -752.000000)">
+            <g id="Group-4" transform="translate(487.000000, 752.000000)">
+                <g id="Group-3-Copy-4">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <polygon id="Fill-1" fill="#306EC8" mask="url(#mask-2)" points="19 7.26992331 19 11.7253251 11.7302282 11.7253251 11.7302282 19 7.27452329 19 7.27452329 11.7253251 0 11.7253251 0 7.26992331 7.27452329 7.26992331 7.27452329 0 11.7302282 0 11.7302282 7.26992331"></polygon>
+                </g>
+                <g id="Group-3-Copy-5" transform="translate(19.000000, 16.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <polygon id="Fill-1" fill="#306EC8" mask="url(#mask-4)" points="13 4.97415805 13 8.02259086 8.02594561 8.02259086 8.02594561 13 4.97730541 13 4.97730541 8.02259086 0 8.02259086 0 4.97415805 4.97730541 4.97415805 4.97730541 0 8.02594561 0 8.02594561 4.97415805"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>plus</title>
+    <defs>
+        <polygon id="path-1" points="0 0 19 0 19 19 0 19"></polygon>
+    </defs>
+    <g id="plus" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.11860926">
+        <g id="Group-3-Copy-3" transform="translate(3.000000, 2.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <polygon id="Fill-1" fill="#4770AD" mask="url(#mask-2)" points="19 7.26992331 19 11.7253251 11.7302282 11.7253251 11.7302282 19 7.27452329 19 7.27452329 11.7253251 0 11.7253251 0 7.26992331 7.27452329 7.26992331 7.27452329 0 11.7302282 0 11.7302282 7.26992331"></polygon>
+        </g>
+    </g>
+</svg>
